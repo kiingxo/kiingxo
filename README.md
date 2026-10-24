@@ -1,6 +1,6 @@
 # Hi, I'm Israel 👋
 
-I'm an AI and software engineer. I build **LLM agents**, **retrieval systems** and the **evaluations** that show whether they work. I've been writing production code in Go, Python, TypeScript and Flutter for 5+ years. I'm currently doing an MSc in Artificial Intelligence at the University of Salford and I'm **open to relocation**.
+**Senior Software Engineer** with 5+ years building production systems in **Go, Python, TypeScript and Flutter**, across backend, mobile and product engineering. I specialise in **applied AI**: LLM agents, retrieval (RAG) and the evaluations that show whether they actually work. I'm currently doing an MSc in Artificial Intelligence at the University of Salford.
 
 ### Selected work
 - **[slash-ai](https://github.com/kiingxo/slash-ai)**: an AI workspace for shipping GitHub changes and managing VPS infrastructure: repo-aware prompt-to-edit, PR review and live SSH monitoring (Flutter).
@@ -14,6 +14,6 @@ I'm an AI and software engineer. I build **LLM agents**, **retrieval systems** a
 - [Proof of concept: Agentic API Testing](https://github.com/foss42/poc-experiments/pull/31) (merged)
 
 ### Stack
-Python · Go · TypeScript · Dart/Flutter · LLM agents · RAG · evals
+Go · Python · TypeScript · Dart/Flutter · backend & APIs · mobile · LLM agents · RAG · evals
 
 📍 Manchester, UK · [Portfolio](https://kiingxoportfolio.vercel.app) · [X/Twitter](https://x.com/kiingxo)

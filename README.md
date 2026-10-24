@@ -9,11 +9,6 @@
 - **[chat-ai](https://github.com/kiingxo/chat-ai)**: ChatPilot, an embeddable open-source LLM chat widget for customer support ([demo](https://kiingxo.github.io/chat-ai/)).
 - **[embedding-method-benchmark](https://github.com/kiingxo/embedding-method-benchmark)**: compares TF-IDF, BiLSTM and GloVe-CNN embeddings for text classification.
 
-### Open source: agentic API testing (GSoC 2026, foss42 / API Dash)
-- [Proposal: Agentic API Testing](https://github.com/foss42/apidash/pull/1419) (merged)
-- [Idea doc: Agentic API Testing](https://github.com/foss42/apidash/pull/1416) (merged)
-- [Proof of concept: Agentic API Testing](https://github.com/foss42/poc-experiments/pull/31) (merged)
-
 ### Stack
 Go · Python · TypeScript · Dart/Flutter · backend & APIs · mobile · LLM agents · RAG · evals
 

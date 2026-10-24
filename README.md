@@ -1,4 +1,4 @@
-# Israel Soyombo · Software Engineer
+# Israel Soyombo · Senior Software Engineer
 
 I build backend, mobile, ML and AI systems in Go, Python, TypeScript and Flutter. MSc AI @ University of Salford.
 
